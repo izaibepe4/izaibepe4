@@ -49,7 +49,7 @@ I enjoy working on projects that combine functionality, clean interfaces, and re
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-1.png" alt="divider">
+  <img src="./assets/dividers/star-divider.png" alt="divider">
 </div>
 
 ## What I'm Working With
@@ -84,7 +84,7 @@ I enjoy working on projects that combine functionality, clean interfaces, and re
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-2.png" alt="divider">
+  <img src="./assets/dividers/star-divider.png" alt="divider">
 </div>
 
 ## Featured Projects
@@ -139,7 +139,7 @@ The project focused on supporting SPBE-related administrative workflows through 
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-3.png" alt="divider">
+  <img src="./assets/dividers/star-divider.png" alt="divider">
 </div>
 
 ## Other Projects
@@ -159,7 +159,7 @@ The project focused on supporting SPBE-related administrative workflows through 
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-4.png" alt="divider">
+  <img src="./assets/dividers/star-divider.png" alt="divider">
 </div>
 
 ## Currently Learning
@@ -195,7 +195,7 @@ A few words that describe how I approach development:
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-5.png" alt="divider">
+  <img src="./assets/dividers/star-divider.png" alt="divider">
 </div>
 
 ## GitHub Snapshot
@@ -226,7 +226,7 @@ A few words that describe how I approach development:
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-5.png" alt="divider">
+  <img src="./assets/dividers/star-divider.png" alt="divider">
 </div>
 
 ## Connect With Me
