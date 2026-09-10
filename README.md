@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banners/banner-header.jpg" alt="Header" width="100%">
+<img src="./assets/banners/banner-header.png" alt="Header" width="100%">
 
 # Hi there, I'm Iza! 👋
 
@@ -152,5 +152,5 @@ I'm interested in turning ideas into practical applications and continuously imp
 <br>
 
 <div align="center">
-  <img src="./assets/footers/footer.jpg" alt="Footer" width="100%">
+  <img src="./assets/footers/footer.png" alt="Footer" width="100%">
 </div>
