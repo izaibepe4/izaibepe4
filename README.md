@@ -32,7 +32,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=izaibepe4&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" alt="Profile Views">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fizaibepe4&labelColor=%23f5f5f5&countColor=%232ccce4" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fizaibepe4&labelColor=%23f5f5f5&countColor=0f172a" />
   <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fizaibepe4&color=brightgreen" />
   <img src="https://img.shields.io/github/commit-activity/m/izaibepe4/izaibepe4?label=commits&color=blue" />
 </p>
