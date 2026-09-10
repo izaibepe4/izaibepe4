@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banners/pixel-night-hero.png" alt="Pixel Night Banner" width="100%">
+<img src="./assets/banners/banner-header.jpg" alt="Header" width="100%">
 
 # Hi there, I'm Iza! 👋
 
@@ -51,7 +51,7 @@ I'm interested in turning ideas into practical applications and continuously imp
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="Divider" width="70%">
+  <img src="./assets/dividers/divider.png" alt="Divider" width="70%">
 </div>
 
 ## 🛠️ Tech Stack
@@ -91,7 +91,7 @@ I'm interested in turning ideas into practical applications and continuously imp
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="Divider" width="70%">
+  <img src="./assets/dividers/divider.png" alt="Divider" width="70%">
 </div>
 
 ## 🚀 Featured Projects
@@ -113,7 +113,7 @@ I'm interested in turning ideas into practical applications and continuously imp
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="Divider" width="70%">
+  <img src="./assets/dividers/divider.png" alt="Divider" width="70%">
 </div>
 
 ## 📊 GitHub Snapshot
@@ -127,7 +127,7 @@ I'm interested in turning ideas into practical applications and continuously imp
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="Divider" width="70%">
+  <img src="./assets/dividers/divider.png" alt="Divider" width="70%">
 </div>
 
 ## 👀 Profile Views
@@ -152,5 +152,5 @@ I'm interested in turning ideas into practical applications and continuously imp
 <br>
 
 <div align="center">
-  <img src="./assets/footers/footer.png" alt="Pixel Night Footer" width="100%">
+  <img src="./assets/footers/footer.jpg" alt="Footer" width="100%">
 </div>
