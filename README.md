@@ -32,7 +32,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=izaibepe4&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" alt="Profile Views">
-  <img src="https://img.shields.io/github/commit-activity/y/izaibepe4?style=for-the-badge&label=COMMITS" alt="Commit Activity">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fizaibepe4&labelColor=%23f5f5f5&countColor=%232ccce4" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fizaibepe4&color=brightgreen" />
+  <img src="https://img.shields.io/github/commit-activity/m/izaibepe4/izaibepe4?label=commits&color=blue" />
 </p>
 
 </div>
@@ -56,7 +58,7 @@ I'm interested in turning ideas into practical applications and continuously imp
 ## 🛠️ Tech Stack
 
 ### Languages
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -64,7 +66,7 @@ I'm interested in turning ideas into practical applications and continuously imp
 </p>
 
 ### Frameworks & Technologies
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Android-0f172a?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-0f172a?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
   <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -74,7 +76,7 @@ I'm interested in turning ideas into practical applications and continuously imp
 </p>
 
 ### Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Android%20Studio-0f172a?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
@@ -82,8 +84,10 @@ I'm interested in turning ideas into practical applications and continuously imp
 </p>
 
 ### Languages I Speak
-- 🇮🇩 **Bahasa Indonesia** — Native
-- 🇬🇧 **English** — Intermediate
+<p align="center">
+  <img src="https://img.shields.io/badge/🇮🇩_Bahasa_Indonesia-Native-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🇬🇧_Business_English-Intermediate-blue?style=for-the-badge"/>
+</p>
 
 ---
 
