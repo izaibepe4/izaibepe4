@@ -1,253 +1,183 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banners/pixel-night-hero-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banners/pixel-night-hero-light.png">
-  <img src="./assets/banners/pixel-night-hero.png" alt="Pixel Night Banner" width="100%">
-</picture>
+<img src="./assets/banners/pixel-night-hero.png" alt="Pixel Night Banner" width="100%">
 
-<br/>
+# Hi there, I'm Iza! 👋
 
-# Hi, I'm Izaibepe4 🌙
-
-### Informatics Student · Mobile Developer · Software Enthusiast
-
-<p>
-  I'm an Informatics student who enjoys building software,
-  especially mobile applications and practical digital solutions.
-</p>
-
-<p>
-  I like turning ideas into functional applications —
-  from designing interfaces and implementing features
-  to connecting applications with backend services.
-</p>
-
-</div>
-
----
-
-<div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="divider">
-</div>
-
-## About Me
-
-I'm an Informatics student who enjoys learning by building.
-
-My main experience so far has been around **mobile application development**, particularly with **Kotlin and Jetpack Compose**, while also exploring backend and web development.
-
-I enjoy working on projects that combine functionality, clean interfaces, and real-world use cases.
-
-* 🎓 Informatics student
-* 📱 Focused on mobile application development
-* 🧩 Building with Kotlin & Jetpack Compose
-* 🌐 Exploring backend and web development
-* 🔧 Interested in software engineering and system development
-* 🌌 Always learning through projects and experimentation
-
----
-
-<div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="divider">
-</div>
-
-## What I'm Working With
-
-### Mobile Development
-
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-0f172a?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-0f172a?style=for-the-badge&logo=android&logoColor=white" />
-</p>
-
-### Backend & Web
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-1e293b?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-1e293b?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-<div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="divider">
-</div>
-
-## Featured Projects
-
-### 📱 Learnexus
-
-An online learning mobile application designed to provide a course-based learning experience.
-
-**Built with:**
-
-* Kotlin
-* Jetpack Compose
-* Node.js
-* MySQL
-* REST API
-
-The project consists of a mobile application and a separate backend service, allowing the app to communicate with its own API.
-
----
-
-### 🌱 Tumbuh Nyata
-
-A mobile application concept focused on CSR activity management and submission.
-
-I worked primarily on the **mobile/frontend side**, building the application interface and user flows using Kotlin and Jetpack Compose.
-
-**Highlights:**
-
-* Multi-step CSR submission flow
-* Authentication & navigation
-* Workshop and certification features
-* Profile and dashboard interfaces
-* Modern mobile UI implementation
-
----
-
-### 🏛️ SPBE — Diskominfo Kabupaten Malang
-
-A web-based government administration system developed during my internship at Diskominfo Kabupaten Malang.
-
-**Built with:**
-
-* Laravel
-* Filament
-* Alpine.js
-* Tailwind CSS
-* MySQL
-* SQLite
-
-The project focused on supporting SPBE-related administrative workflows through a web application with public and administrative interfaces.
-
----
-
-<div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="divider">
-</div>
-
-## Other Projects
-
-<p align="center">
-
-| Project                    | Description                            | Tech                     |
-| :------------------------- | :------------------------------------- | :----------------------- |
-| **Parkirin**               | Simple parking-related web application | HTML                     |
-| **PAPB Application**       | Android application project            | Kotlin                   |
-| **Compose Navigation App** | Android navigation implementation      | Kotlin · Jetpack Compose |
-| **Todo List**              | Simple task management application     | Kotlin                   |
-| **Learnexus-BE**           | Backend service for Learnexus          | JavaScript · Node.js     |
-
-</p>
-
----
-
-<div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="divider">
-</div>
-
-## Currently Learning
-
-I'm currently improving my skills in:
-
-* 📱 Android & Jetpack Compose
-* 🏗️ Software architecture and application structure
-* 🌐 Backend development & API integration
-* 🗄️ Database design and management
-* 🎨 UI implementation and user experience
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Problem solving through real-world projects
-
----
-
-## Night Notes
-
-> I don't want to just make things work.
->
-> I want to understand how they work,
-> build them better,
-> and eventually create things of my own.
-
-A few words that describe how I approach development:
-
-* curious
-* adaptable
-* detail-oriented
-* experimental
-* always learning
-
----
-
-<div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="divider">
-</div>
-
-## GitHub Snapshot
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=izaibepe4&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Izaibepe4's GitHub Stats"
-  />
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs?username=izaibepe4&layout=compact&theme=tokyonight&hide_border=true"
- height="170"
- alt="Izaibepe4's Top Languages"
-/>
-
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=izaibepe4&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Izaibepe4's GitHub Streak"
-  />
-</p>
-
----
-
-<div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="divider">
-</div>
-
-## Connect With Me
+### Informatics Student · Mobile Developer · Software Developer
 
 <p align="center">
   <a href="mailto:izaimantaka.bp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-
   <a href="https://www.linkedin.com/in/izaimantakabudyanaputra/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
+  <a href="https://github.com/izaibepe4">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
   <a href="https://www.instagram.com/_ijaa4/">
-    <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <span>
+    <img src="https://img.shields.io/badge/Discord-0f172a?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <br>
+    <sub>@frappeouttt</sub>
+  </span>
+  <a href="https://open.spotify.com/user/31wkp5khua2hhspdceuskxdae3by?si=-tOBoiD4SAet5stbMeHjvQ&utm_source=copy-link">
+    <img src="https://img.shields.io/badge/Spotify-0f172a?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+  <a href="https://www.roblox.com/users/8453257767/profile">
+    <img src="https://img.shields.io/badge/Roblox-0f172a?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox">
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=izaibepe4&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://img.shields.io/github/commit-activity/y/izaibepe4?style=for-the-badge&label=COMMITS" alt="Commit Activity">
+</p>
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm an Informatics student who enjoys building mobile and software projects, especially with Kotlin and Jetpack Compose.
+
+Most of my project experience comes from developing mobile applications, while also exploring backend and web development with Node.js, Laravel, and MySQL.
+
+I'm interested in turning ideas into practical applications and continuously improving my skills through projects, collaboration, and experimentation.
+
+---
+
 <div align="center">
-  <br/>
+  <img src="./assets/dividers/star-divider.png" alt="Divider" width="70%">
+</div>
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+</p>
+
+### Frameworks & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Android-0f172a?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-0f172a?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Android%20Studio-0f172a?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
+
+### Languages I Speak
+- 🇮🇩 **Bahasa Indonesia** — Native
+- 🇬🇧 **English** — Intermediate
+
+---
+
+<div align="center">
+  <img src="./assets/dividers/star-divider.png" alt="Divider" width="70%">
+</div>
+
+## 🚀 Featured Projects
+
+### 📚 [Learnexus](https://github.com/izaibepe4/Learnexus)
+
+An online learning mobile application designed around a course-based learning experience.
+
+**Tech Stack:** `Kotlin` · `Jetpack Compose` · `Node.js` · `MySQL` · `REST API`
+
+---
+
+### 📱 [Tumbuh Nyata](https://github.com/adnanfaikar/TumbuhNyata)
+
+A mobile CSR application designed to support CSR event submissions, verification, workshops, certification, and related activities.
+
+**Role:** Mobile Developer / Frontend Developer
+
+**Tech Stack:** `Kotlin` · `Jetpack Compose` · `Android`
+
+---
+
+### 🏢 SPBE — Diskominfo Kabupaten Malang
+
+A government information system developed during my internship at Diskominfo Kabupaten Malang, focusing on SPBE-related administration and workflows.
+
+**Role:** Software Developer
+
+**Tech Stack:** `Laravel 12` · `Filament 3.3` · `Alpine.js` · `Tailwind CSS 4` · `MySQL`
+
+> The project repository is private and is therefore not linked here.
+
+<div align="center">
+
+<a href="https://github.com/izaibepe4?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="./assets/dividers/star-divider.png" alt="Divider" width="70%">
+</div>
+
+## 📊 GitHub Snapshot
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=izaibepe4&show_icons=true&theme=tokyonight&hide_border=true" alt="Iza's GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaibepe4&layout=compact&theme=tokyonight&hide_border=true" alt="Iza's Top Languages">
+
+<img src="https://streak-stats.demolab.com?user=izaibepe4&theme=tokyonight&hide_border=true" alt="Iza's GitHub Streak">
+
+</div>
+
+> **Note:** If the GitHub Snapshot images fail to load, the issue is likely with the external stats service rather than the README itself.
+
+---
+
+<div align="center">
+  <img src="./assets/dividers/star-divider.png" alt="Divider" width="70%">
+</div>
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=izaibepe4&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" alt="Profile Views">
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 🌙
+
+*If you like my work, consider giving a star to my repositories!*  
+*Feel free to fork and contribute to any of my projects!*
+
+</div>
+
+<br>
+
+<div align="center">
   <img src="./assets/footers/footer.png" alt="Pixel Night Footer" width="100%">
-  <br/><br/>
-  <sub>Thanks for visiting my corner of GitHub ✨</sub>
 </div>
