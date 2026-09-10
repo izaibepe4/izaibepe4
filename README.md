@@ -31,7 +31,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=izaibepe4&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" alt="Profile Views">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fizaibepe4&labelColor=525252&countColor=0f172a" />
   <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fizaibepe4&color=brightgreen" />
   <img src="https://img.shields.io/github/commit-activity/m/izaibepe4/izaibepe4?label=commits&color=blue" />
@@ -97,33 +96,11 @@ I'm interested in turning ideas into practical applications and continuously imp
 
 ## 🚀 Featured Projects
 
-### 📚 [Learnexus](https://github.com/izaibepe4/Learnexus)
-
-An online learning mobile application designed around a course-based learning experience.
-
-**Tech Stack:** `Kotlin` · `Jetpack Compose` · `Node.js` · `MySQL` · `REST API`
-
----
-
-### 📱 [Tumbuh Nyata](https://github.com/adnanfaikar/TumbuhNyata)
-
-A mobile CSR application designed to support CSR event submissions, verification, workshops, certification, and related activities.
-
-**Role:** Mobile Developer / Frontend Developer
-
-**Tech Stack:** `Kotlin` · `Jetpack Compose` · `Android`
-
----
-
-### 🏢 SPBE — Diskominfo Kabupaten Malang
-
-A government information system developed during my internship at Diskominfo Kabupaten Malang, focusing on SPBE-related administration and workflows.
-
-**Role:** Software Developer
-
-**Tech Stack:** `Laravel 12` · `Filament 3.3` · `Alpine.js` · `Tailwind CSS 4` · `MySQL`
-
-> The project repository is private and is therefore not linked here.
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Learnexus](https://github.com/izaibepe4/Learnexus)** | Online learning mobile application designed around a course-based learning experience | Kotlin, Jetpack Compose, Node.js, MySQL, REST API |
+| **[Tumbuh Nyata](https://github.com/adnanfaikar/TumbuhNyata)** | Mobile CSR application for CSR event submissions, verification, workshops, certification, and related activities | Kotlin, Jetpack Compose, Android |
+| **SPBE — Diskominfo Kabupaten Malang** | Government information system developed during my internship, focusing on SPBE-related administration and workflows | Laravel 12, Filament 3.3, Alpine.js, Tailwind CSS 4, MySQL |
 
 <div align="center">
 
@@ -143,15 +120,9 @@ A government information system developed during my internship at Diskominfo Kab
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=izaibepe4&show_icons=true&theme=tokyonight&hide_border=true" alt="Iza's GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaibepe4&layout=compact&theme=tokyonight&hide_border=true" alt="Iza's Top Languages">
-
 <img src="https://streak-stats.demolab.com?user=izaibepe4&theme=tokyonight&hide_border=true" alt="Iza's GitHub Streak">
 
 </div>
-
-> **Note:** If the GitHub Snapshot images fail to load, the issue is likely with the external stats service rather than the README itself.
 
 ---
 
