@@ -20,9 +20,7 @@
     <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <span>
-    <img src="https://img.shields.io/badge/Discord-0f172a?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    <br>
-    <sub>@frappeouttt</sub>
+    <img src="https://img.shields.io/badge/%40frappeouttt-0f172a?style=for-the-badge&logo=discord&logoColor=white" alt="Discord @frappeouttt">
   </span>
   <a href="https://open.spotify.com/user/31wkp5khua2hhspdceuskxdae3by?si=-tOBoiD4SAet5stbMeHjvQ&utm_source=copy-link">
     <img src="https://img.shields.io/badge/Spotify-0f172a?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
