@@ -85,7 +85,7 @@ I'm interested in turning ideas into practical applications and continuously imp
 ### Languages I Speak
 <p align="center">
   <img src="https://img.shields.io/badge/🇮🇩_Bahasa_Indonesia-Native-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🇬🇧_Business_English-Intermediate-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🇬🇧_English-Intermediate-blue?style=for-the-badge"/>
 </p>
 
 ---
